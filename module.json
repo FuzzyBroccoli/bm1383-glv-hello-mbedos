@@ -1,0 +1,22 @@
+{
+  "name": "bm1383-glv-hello",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "keywords": [
+    "hello world",
+    "rohm",
+    "bm1383"
+  ],
+  "author": "Mikko Koivunen",
+  "repository": {
+    "url": "https://github.com/MikkoZ-Rohm/bm1383-glv-hello-mbedos.git"
+  },
+  "dependencies": {
+    "rohm-bm1383-glv": "~0.1.0",
+    "mbed-drivers": "1.2.0"
+  },
+  "bin": "./source",
+  "private": false,
+  "targetDependencies": {},
+  "testDependencies": {}
+}
