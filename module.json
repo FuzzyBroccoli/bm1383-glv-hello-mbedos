@@ -9,6 +9,7 @@
   ],
   "author": "Mikko Koivunen",
   "repository": {
+    "type": "git",
     "url": "https://github.com/MikkoZ-Rohm/bm1383-glv-hello-mbedos.git"
   },
   "dependencies": {
