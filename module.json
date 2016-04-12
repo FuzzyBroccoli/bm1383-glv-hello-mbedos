@@ -1,7 +1,8 @@
 {
-  "name": "bm1383-glv-hello",
+  "name": "bm1383-glv-hello-mbedos",
   "version": "0.1.0",
   "license": "Apache-2.0",
+  "description": "Hello world for mbed os + Rohm BM1383 glv barometer sensor.",
   "keywords": [
     "hello world",
     "rohm",
